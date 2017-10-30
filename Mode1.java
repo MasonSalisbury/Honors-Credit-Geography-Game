@@ -14,8 +14,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 //Name: Mason Salisbury
-//StudentID: 1209176029
-//Lecture: MWF 9:00-9:50
 //Description: This is a free response game mode where the picture of a random state is shown to the user and they have three attempts to enter the correct name into the text field
 
 public class Mode1 extends JFrame{
