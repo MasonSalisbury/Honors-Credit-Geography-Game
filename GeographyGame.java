@@ -11,8 +11,6 @@ import java.util.ArrayList;
 import java.awt.event.ActionEvent;
 
 //Name: Mason Salisbury
-//StudentID: 1209176029
-//Lecture: MWF 9:00-9:50
 //Description: This creates a main menu inside of the JFrame extended by this class, manages the two game modes, and declares the complete list of State objects
 
 public class GeographyGame extends JFrame {
