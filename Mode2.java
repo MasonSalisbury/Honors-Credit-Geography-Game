@@ -15,8 +15,6 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 
 //Name: Mason Salisbury
-//StudentID: 1209176029
-//Lecture: MWF 9:00-9:50
 //Description: This is a multiple choice game mode that gives the user a random state name and they have to choose the correct state from four random state images
 
 public class Mode2 extends JFrame{
