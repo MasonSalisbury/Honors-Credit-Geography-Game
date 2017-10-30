@@ -1,8 +1,6 @@
 import java.awt.Image;
 
 //Name: Mason Salisbury
-//StudentID: 1209176029
-//Lecture: MWF 9:00-9:50
 //Description: This manages the information for all 50 states. It holds the state name and two images of the state
 
 public class State {
